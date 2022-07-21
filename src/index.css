@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.App {
+.App h2
+{
   text-align: center;
+}
+.video {
+  margin: auto;
+  /* text-align: center; */
 }
